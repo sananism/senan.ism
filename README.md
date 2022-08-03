@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senanismm
+- 👋 Hi, I’m @senan.ism
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
