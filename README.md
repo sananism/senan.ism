@@ -8,5 +8,4 @@
 senanismm/senanismm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Oracle Certified Professional, Java SE 11 Developer](https://www.oracle.com/community/developer/images/OCP11.png)](https://education.oracle.com/java/professional/certification/index.html)
 
